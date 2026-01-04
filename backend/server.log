@@ -259,3 +259,143 @@
 2026-01-03 23:29:09,740 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-03
 2026-01-03 23:29:09,937 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-03
 2026-01-03 23:29:10,167 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-03
+2026-01-04 13:34:13,363 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:34:16,405 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:34:22,081 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012024-08-02
+2026-01-04 13:35:34,808 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:35:57,481 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012024-08-02
+2026-01-04 13:36:06,736 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:36:13,781 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:36:14,897 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:38:13,781 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:38:13,817 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012024-08-03
+2026-01-04 13:53:12,025 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:53:12,064 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012024-08-03
+2026-01-04 13:53:41,694 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:53:41,733 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012024-08-03
+2026-01-04 13:54:09,121 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:54:09,162 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012024-08-03
+2026-01-04 13:54:23,522 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:54:23,558 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012024-08-03
+2026-01-04 13:54:42,378 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:54:42,422 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012024-08-03
+2026-01-04 13:54:53,727 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:54:56,782 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:54:56,813 - db_helper - INFO - running fetch_expense_summary is called with 2026-01-042026-01-04
+2026-01-04 13:55:07,967 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:55:08,002 - db_helper - INFO - running fetch_expense_summary is called with 2026-01-042026-01-04
+2026-01-04 13:55:14,005 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:55:26,334 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:55:27,272 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:55:27,304 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 13:59:06,088 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 13:59:06,116 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:04:41,168 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:04:41,201 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:04:58,203 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:04:58,236 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:05:46,494 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:05:46,526 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:06:08,765 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:06:08,804 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:08:17,916 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:08:17,952 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:31:30,786 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:31:30,820 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:33:03,184 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:33:03,218 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:33:16,995 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:33:17,026 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:33:27,494 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:33:27,530 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:33:56,611 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:33:56,657 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:34:01,195 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:34:01,233 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:34:08,848 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:34:08,881 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:34:43,355 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:34:43,390 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:34:44,130 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:34:44,163 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:34:56,222 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:34:56,261 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:35:07,656 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:35:07,692 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:35:22,288 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:35:22,319 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:39:27,821 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:39:27,855 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:39:34,697 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:39:34,739 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:39:48,486 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:39:48,526 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:40:05,468 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:40:05,509 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:40:10,433 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:40:10,466 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:40:11,670 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:40:11,698 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:40:18,771 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:40:18,806 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:42:50,148 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:42:50,181 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:45:49,727 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:45:49,765 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:46:31,854 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:46:31,894 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:47:09,198 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:47:09,230 - db_helper - INFO - running fetch_expense_summary is called with 2024-08-012026-01-04
+2026-01-04 14:47:35,207 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:48:07,229 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:48:17,672 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:48:20,785 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:48:27,905 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:50:02,567 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:50:45,523 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:50:46,821 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:51:04,539 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:51:40,968 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:51:44,461 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:51:49,577 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:52:28,911 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-02
+2026-01-04 14:52:30,987 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:52:39,285 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:53:13,445 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:53:16,033 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:54:30,284 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:54:42,684 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:55:01,197 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:55:08,433 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:55:10,947 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 14:56:17,368 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 15:00:52,378 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 15:01:52,372 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 15:02:13,463 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 15:09:06,385 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 15:09:17,327 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 15:09:33,719 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-011227.0RentMonthly rent payment
+2026-01-04 15:09:33,746 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-01300.0FoodGroceries for the week
+2026-01-04 15:09:33,761 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-011200.0RentMonthly rent payment
+2026-01-04 15:09:33,773 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-01300.0FoodGroceries for the week
+2026-01-04 15:09:33,787 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-01250.0footwearbought 4 pair of shoes
+2026-01-04 15:09:33,800 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-014564.0RentDFADFAD
+2026-01-04 15:09:33,815 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-018767.0Foodfdfadfa
+2026-01-04 15:09:33,830 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-010.0Other
+2026-01-04 15:12:33,294 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 15:12:33,349 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-011227.0RentMonthly rent payment
+2026-01-04 15:12:33,371 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-01300.0FoodGroceries for the week
+2026-01-04 15:12:33,391 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-011200.0RentMonthly rent payment
+2026-01-04 15:12:33,409 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-01300.0FoodGroceries for the week
+2026-01-04 15:12:33,426 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-01250.0footwearbought 4 pair of shoes for me, my sister and my father
+2026-01-04 15:12:33,437 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-014564.0RentDFADFAD
+2026-01-04 15:12:33,448 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-018767.0Foodfdfadfa
+2026-01-04 15:12:42,586 - db_helper - INFO - running fetch_expenses_for_date is called with 2024-08-01
+2026-01-04 15:12:42,629 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-011227.0RentMonthly rent payment
+2026-01-04 15:12:42,645 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-01300.0FoodGroceries for the week
+2026-01-04 15:12:42,661 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-011200.0RentMonthly rent payment
+2026-01-04 15:12:42,676 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-01300.0FoodGroceries for the week
+2026-01-04 15:12:42,690 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-01250.0footwearbought 4 pair of shoes for me, my sister and my father
+2026-01-04 15:12:42,705 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-014564.0RentDFADFAD
+2026-01-04 15:12:42,720 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-018767.0Foodfdfadfa
+2026-01-04 15:12:42,734 - db_helper - INFO -  add_expenses_for_date is called with 2024-08-010.00594894Fooddfsdfsdfsdfsd

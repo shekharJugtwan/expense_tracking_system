@@ -13,7 +13,8 @@ This project is an expense management system that consists of a streamlit fronte
 
 1. **Clone the repository**:
     ```bash
-    git clone ```
+    git clone https://github.com/shekharJugtwan/expense_tracking_system.git
+   ```
 2. **Install dependencies:**
     ``` commandline
    pip install -r requirements.txt
