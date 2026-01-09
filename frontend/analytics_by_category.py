@@ -6,7 +6,7 @@ import pandas as pd
 
 API_URL = "http://127.0.0.1:8000/"
 
-def analytics_tab():
+def analytics_by_category():
     col1, col2 = st.columns(2)
     with col1:
         start_date = st.date_input("Start Date", value = date.today())

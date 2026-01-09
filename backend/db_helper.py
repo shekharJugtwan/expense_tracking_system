@@ -49,6 +49,18 @@ def fetch_expense_summary(start_date, end_date):
         data = cursor.fetchall()
         return data
 
+def fetch_expenses_by_months():
+    logger.info(f"running fetch_expenses_by_month is called ")
+    with get_db_cursor() as cursor:
+        cursor.execute(''' SELECT 
+                            DATE_FORMAT(expense_date, '%Y-%m') AS ym, 
+                                  SUM(amount) AS total 
+                            FROM expenses 
+                            GROUP BY DATE_FORMAT(expense_date, '%Y-%m')
+                            ORDER BY ym; ''')
+        data = cursor.fetchall()
+        return data
+
 
 if __name__ == '__main__':
 

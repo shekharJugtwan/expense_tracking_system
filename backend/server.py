@@ -9,6 +9,10 @@ class Expense(BaseModel):
     category:str
     notes:str
 
+class Expense_by_month(BaseModel):
+    ym:str
+    total:float
+
 class Date_Range(BaseModel):
     start_date: date
     end_date: date
@@ -22,10 +26,18 @@ def get_expense(expense_date: date):
         raise HTTPException(status_code= 404, detail="failed to load  expenses")
     return expenses
 
+@app.get("/analytics_by_month", response_model= List[Expense_by_month])
+def get_expense_by_month():
+    expenses_by_month = db_helper.fetch_expenses_by_months()
+    if expenses_by_month is None:
+        raise HTTPException(status_code = 404, detail= "failed to laod expenses_by_month")
+    return expenses_by_month
+
 @app.post("/expenses/{expense_date}")
 def add_expense(expense_date:date ,expenses: List[Expense] ):
     for expense in expenses:
         db_helper.add_expenses_for_date(expense_date, expense.amount, expense.category, expense.notes)
+
 
     return  {"expense update successfully"}
 
